@@ -19,9 +19,9 @@ Use one of the templates below. They ask for the right information upfront, whic
 
 | Template | Use it when... |
 |---|---|
-| [Bug report](bug_report.md) | Something isn't working the way it should |
-| [Feature request](feature_request.md) | You have an idea for something new or improvements |
-| [Question](question.md) | You are not sure how something works or need a hand getting set up |
+| [Bug report](.github/ISSUE_TEMPLATE/bug_report.md) | Something isn't working the way it should |
+| [Feature request](.github/ISSUE_TEMPLATE/feature_request.md) | You have an idea for something new or improvements |
+| [Q&A Discussion](../../discussions/new?category=q-a) | You are not sure how something works or need a hand getting set up |
 
 ---
 
