@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question
+    url: https://github.com/silencesys/dh--manu.is/discussions/new?category=q-a
+    about: Not sure how something works? Ask in Discussions — it's a better fit for open-ended conversations.
